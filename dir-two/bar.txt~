@@ -1,0 +1,6 @@
+This file was added because it is also found with the
+PowerShell command
+
+   foreach ($file in get-childItem -recurse -filter *.txt) {
+      write-host $file
+   }
