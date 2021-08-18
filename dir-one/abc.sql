@@ -1,7 +1,7 @@
 select
-  cus.name,
+  cus.name, -- {
   sal.item
-  sal.amount
+  sal.amount -- }
 from
   sales    sal                            join
   customer cus on sal.cust_id = cus.id;
