@@ -1,0 +1,4 @@
+The name of this file contains spaces and a hyphen and
+was created to test what happens if I execute
+
+   vim $(grep -rli happens)

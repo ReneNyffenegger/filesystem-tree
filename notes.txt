@@ -1,1 +1,7 @@
 A top-level txt file.
+
+the directory release-notes contains files whose file names have version
+numbers. this directory and its files were created to test
+   ls -lv
+   tree -v
+
