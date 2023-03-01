@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 11,
+    "editor.tabSize": 3,
+    "editor.cursorStyle": "line-thin",
+    "files.exclude": {
+        "**/.DS_Store": false,
+        "**/CVS": false
+    }
+}
