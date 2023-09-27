@@ -10,7 +10,7 @@ The command used to identify the objects was:
 
    This command was executed at git commit 98de0bbd2db237b623835cef75e744a0c77020e2.
 
-The idea of these files is to have a some files that are found if they're not
+The idea of these files is to have some files that are found if they're not
 under the .git directory, but are not found if they're under the git directory.
 
 For example, the following command also finds files under .git (which is not
