@@ -1,0 +1,8 @@
+This file system tree has tree identical files:
+   dir-one/identical-file-1.txt
+   dir-one/identical-file-2.txt
+   dir-two/dir with spaces/identical-file-3.txt
+
+The purpose of these files is to test if a script or
+utility that promises to find equal files is able
+to locate them.
