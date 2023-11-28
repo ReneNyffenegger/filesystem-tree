@@ -5,3 +5,6 @@ numbers. this directory and its files were created to test
    ls -lv
    tree -v
 
+./set-permissions.sh is a script that makes some files and directories
+unreadable (so as to test error messages when using the shell command
+find).

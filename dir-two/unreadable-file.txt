@@ -1,0 +1,3 @@
+This file is turned unreadable by the script set-permissions.sh
+found in the top level directory.
+Compare with the directory named unreadable-directory.
