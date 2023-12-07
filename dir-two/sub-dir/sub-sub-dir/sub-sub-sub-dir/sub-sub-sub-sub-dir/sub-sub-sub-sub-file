@@ -1,0 +1,4 @@
+A file hidden in a deeply nested sub directory.
+
+Try the following shell command:
+   namei -om dir-two/sub-dir/sub-sub-dir/sub-sub-sub-dir/sub-sub-sub-sub-dir/sub-sub-sub-sub-file
